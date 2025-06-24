@@ -1,0 +1,5 @@
+{
+    "tritonbench_mixed_gemm_fwd[x_(1, 13312, 16384)-aten_bf16_bf16]_latency": "0.13545599579811096",
+    "tritonbench_mixed_gemm_fwd[x_(4096, 8192, 4096)-aten_bf16_bf16]_latency": "2.0577280521392822",
+    "tritonbench_mixed_gemm_fwd[x_average-aten_bf16_bf16]_latency": null
+}

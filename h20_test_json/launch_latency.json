@@ -1,0 +1,14 @@
+{
+    "tritonbench_launch_latency_fwd[x_0-nop_python_function]_walltime": 2.402161637952683e-05,
+    "tritonbench_launch_latency_fwd[x_0-nop_triton_kernel]_walltime": 0.0076066337086321,
+    "tritonbench_launch_latency_fwd[x_0-nop_triton_compiled_kernel_run]_walltime": 0.0034641966608697206,
+    "tritonbench_launch_latency_fwd[x_0-nop_inductor_kernel]_walltime": 0.02024363683918777,
+    "tritonbench_launch_latency_fwd[x_average-nop_python_function]_walltime": 2.402161637952683e-05,
+    "tritonbench_launch_latency_fwd[x_average-nop_triton_kernel]_walltime": 0.0076066337086321,
+    "tritonbench_launch_latency_fwd[x_average-nop_triton_compiled_kernel_run]_walltime": 0.0034641966608697206,
+    "tritonbench_launch_latency_fwd[x_average-nop_inductor_kernel]_walltime": 0.02024363683918777,
+    "tritonbench_launch_latency_fwd[nop_python_function]-walltime-avg": 2.402161637952683e-05,
+    "tritonbench_launch_latency_fwd[nop_triton_kernel]-walltime-avg": 0.0076066337086321,
+    "tritonbench_launch_latency_fwd[nop_triton_compiled_kernel_run]-walltime-avg": 0.0034641966608697206,
+    "tritonbench_launch_latency_fwd[nop_inductor_kernel]-walltime-avg": 0.02024363683918777
+}

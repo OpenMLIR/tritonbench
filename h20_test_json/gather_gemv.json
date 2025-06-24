@@ -1,0 +1,14 @@
+{
+    "tritonbench_gather_gemv_fwd[x_2048-test_eager]_latency": "0.047040000557899475",
+    "tritonbench_gather_gemv_fwd[x_2048-test_0]_latency": "0.011552000418305397",
+    "tritonbench_gather_gemv_fwd[x_2048-test_inductor]_latency": "0.019680000841617584",
+    "tritonbench_gather_gemv_fwd[x_4096-test_eager]_latency": "0.1916159987449646",
+    "tritonbench_gather_gemv_fwd[x_4096-test_0]_latency": "0.029055999591946602",
+    "tritonbench_gather_gemv_fwd[x_4096-test_inductor]_latency": "0.06588800251483917",
+    "tritonbench_gather_gemv_fwd[x_8192-test_eager]_latency": "0.7293440103530884",
+    "tritonbench_gather_gemv_fwd[x_8192-test_0]_latency": "0.08745600283145905",
+    "tritonbench_gather_gemv_fwd[x_8192-test_inductor]_latency": "0.20684799551963806",
+    "tritonbench_gather_gemv_fwd[x_average-test_eager]_latency": null,
+    "tritonbench_gather_gemv_fwd[x_average-test_0]_latency": null,
+    "tritonbench_gather_gemv_fwd[x_average-test_inductor]_latency": null
+}
